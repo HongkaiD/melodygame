@@ -26,51 +26,7 @@
         }
     }, 
     "65536": {}, 
-    "131072": {
-        "10005": [
-            10005, 
-            "\u70b9\u5149\u6e90", 
-            {
-                "auto_on_terrain": false, 
-                "delay_add_tree": true, 
-                "entity_id": null, 
-                "light_cast_shadow": false, 
-                "light_color": {
-                    "__tuple__": true, 
-                    "items": [
-                        1.0, 
-                        1.0, 
-                        1.0
-                    ]
-                }, 
-                "light_intensity": 10000.0, 
-                "light_range": 14.5803, 
-                "name": "\u70b9\u5149\u6e90", 
-                "offset": {
-                    "__tuple__": true, 
-                    "items": [
-                        0, 
-                        0.2, 
-                        0
-                    ]
-                }, 
-                "pitch": 0.0, 
-                "pos": {
-                    "__tuple__": true, 
-                    "items": [
-                        2.610651969909668, 
-                        6.720010280609131, 
-                        0.38915443420410156
-                    ]
-                }, 
-                "relative_height": 0.2, 
-                "roll": 0.0, 
-                "type": 131072, 
-                "use_lumens": true, 
-                "yaw": 0.0
-            }
-        ]
-    }, 
+    "131072": {}, 
     "262144": {}, 
     "1048576": {}, 
     "2097152": {}, 

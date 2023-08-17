@@ -8,10 +8,17 @@
             "__tuple__": true, 
             "items": [
                 1875570739, 
-                "New trigger"
+                "game_init"
             ]
         }, 
         "1": {
+            "__tuple__": true, 
+            "items": [
+                1445650435, 
+                "game_start"
+            ]
+        }, 
+        "2": {
             "__tuple__": true, 
             "items": [
                 445378562, 

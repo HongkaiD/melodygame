@@ -128,12 +128,47 @@
             "suspend_picture": 903407, 
             "type": 1, 
             "uid": "a06c0e95-daa5-4976-9d46-d3e9ebd1db0f"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 134266621, 
+            "name": "\u8fc7\u573a", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "e465a9ee-208b-4c5f-ae8e-bb1bedaba800"
         }
     ], 
     "name": "GameHUD", 
     "opacity": 1.0, 
     "type": 2, 
-    "ui_anims": [], 
+    "ui_anims": [
+        1
+    ], 
     "uid": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
     "visible": true, 
     "zorder": 400

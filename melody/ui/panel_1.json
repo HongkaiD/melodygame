@@ -419,9 +419,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    254, 
-                                    254, 
-                                    254, 
+                                    184, 
+                                    184, 
+                                    184, 
                                     255
                                 ]
                             }, 
@@ -485,7 +485,7 @@
                                 }
                             ], 
                             "enabled": true, 
-                            "name": "button_1_0", 
+                            "name": "\u5f00\u59cb\u6e38\u620f", 
                             "sound_id": 112972, 
                             "type": 2
                         }, 
@@ -611,9 +611,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    254, 
-                                    254, 
-                                    254, 
+                                    184, 
+                                    184, 
+                                    184, 
                                     255
                                 ]
                             }, 
@@ -677,7 +677,7 @@
                                 }
                             ], 
                             "enabled": true, 
-                            "name": "button_2_0", 
+                            "name": "\u6b4c\u8bcd", 
                             "sound_id": 112972, 
                             "type": 2
                         }, 
@@ -803,9 +803,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    254, 
-                                    254, 
-                                    254, 
+                                    184, 
+                                    184, 
+                                    184, 
                                     255
                                 ]
                             }, 
@@ -869,7 +869,7 @@
                                 }
                             ], 
                             "enabled": true, 
-                            "name": "button_2_0", 
+                            "name": "\u9000\u51fa\u6e38\u620f", 
                             "sound_id": 112972, 
                             "type": 2
                         }, 

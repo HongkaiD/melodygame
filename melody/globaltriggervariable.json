@@ -56,6 +56,10 @@
         "POINT_LIGHT": {
             "\u4e3b\u89d2\u5149\u73af": 0
         }, 
+        "SOUND_ENTITY": {
+            "level1bgm": 0, 
+            "\u4e3b\u754c\u9762BGM": 0
+        }, 
         "TABLE": {
             "UI_Manager": null
         }, 
@@ -90,12 +94,28 @@
                 "\u4e3b\u89d2\u5149\u73af", 
                 "\u4e3b\u89d2\u5149\u73af"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4e3b\u754c\u9762BGM", 
+                "\u4e3b\u754c\u9762BGM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "level1bgm", 
+                "level1bgm"
+            ]
         }
     ], 
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
         "MousePointTemp": 0, 
         "UI_Manager": 0, 
+        "level1bgm": 0, 
+        "\u4e3b\u754c\u9762BGM": 0, 
         "\u4e3b\u89d2\u5149\u73af": 0
     }
 }

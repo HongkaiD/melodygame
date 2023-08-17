@@ -6,7 +6,7 @@
                 {
                     "children": [], 
                     "event_list": [], 
-                    "image": 134270865, 
+                    "image": 134244381, 
                     "name": "image_2", 
                     "pos": {
                         "__tuple__": true, 
@@ -35,20 +35,20 @@
                 {
                     "children": [], 
                     "event_list": [], 
-                    "image": 134264617, 
+                    "image": 134232125, 
                     "name": "image_13", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            68.0, 
-                            -14.0
+                            56.0, 
+                            -10.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            68.0, 
-                            -14.000000000000002
+                            56.00000000000001, 
+                            -10.0
                         ]
                     }, 
                     "size": {
@@ -64,20 +64,20 @@
                 {
                     "children": [], 
                     "event_list": [], 
-                    "image": 134274905, 
+                    "image": 134232289, 
                     "name": "image_14", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            4.0, 
-                            -27.0
+                            -8.0, 
+                            -14.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            4.0, 
-                            -27.0
+                            -8.0, 
+                            -14.000000000000002
                         ]
                     }, 
                     "size": {
@@ -93,20 +93,20 @@
                 {
                     "children": [], 
                     "event_list": [], 
-                    "image": 134233577, 
+                    "image": 134229324, 
                     "name": "image_15", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            132.0, 
-                            -3.0
+                            120.0, 
+                            -5.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            132.0, 
-                            -3.0
+                            120.0, 
+                            -5.0
                         ]
                     }, 
                     "size": {
@@ -133,7 +133,31 @@
             "uid": "5dc5f71f-96ec-4099-a352-aa93b7346973"
         }, 
         {
-            "children": [], 
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134253704, 
+                    "name": "image_13", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            50.0
+                        ]
+                    }, 
+                    "rotation": 180.0, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            64.0, 
+                            64.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "f9efdd18-2397-49c4-ac77-0f6932065cd7"
+                }
+            ], 
             "event_list": [], 
             "name": "layout_2", 
             "pos": {

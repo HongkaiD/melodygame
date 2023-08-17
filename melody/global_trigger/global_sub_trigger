@@ -2255,6 +2255,182 @@
         "trigger_name": "WADS\u4e07\u5411\u79fb\u52a8", 
         "valid": true
     }, 
+    "1445650435": {
+        "action": [
+            {
+                "action_type": "PLAY_UI_COMP_ANIM", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100239, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1445650435000033, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "STOP_SOUND", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100214, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SOUND_ENTITY", 
+                                    "\u4e3b\u754c\u9762BGM"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 2
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1445650435000006, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100214, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SOUND_ENTITY", 
+                                    "level1bgm"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 2
+                    }, 
+                    {
+                        "arg_type": 100214, 
+                        "args_list": [
+                            {
+                                "arg_type": 100025, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100084, 
+                                "args_list": [
+                                    134226407
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100001, 
+                                "args_list": [
+                                    true
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "op_arg": [
+                            {
+                                "arg_type": 100000, 
+                                "args_list": [
+                                    11.0
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            null
+                        ], 
+                        "op_arg_enable": [
+                            true, 
+                            false
+                        ], 
+                        "sub_type": "PLAY_SOUND_FOR_PLAYER"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1445650435000015, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SEND_CUSTOM_EVENT", 
+                "args_list": [
+                    {
+                        "arg_type": 100238, 
+                        "args_list": [
+                            1372502054
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1445650435000011, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100067, 
+                        "args_list": [
+                            "\u5f00\u59cb\u6e38\u620f"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1445650435000002, 
+                "enable": true, 
+                "event_type": "TRIGGER_COMPONENT_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1445650435, 
+        "trigger_name": "game_start", 
+        "valid": true
+    }, 
     "1875570739": {
         "action": [
             {
@@ -2367,81 +2543,36 @@
                 ]
             }, 
             {
-                "action_type": "RUN_LOOP_TIMER_BY_FRAME_NO_SAVE", 
+                "action_type": "NEW_CAMERA_SET_FOLLOW_UNIT", 
                 "args_list": [
                     {
-                        "arg_type": 100002, 
+                        "arg_type": 100025, 
                         "args_list": [
                             1
                         ], 
                         "sub_type": 1
                     }, 
                     {
-                        "arg_type": 100001, 
+                        "arg_type": 100006, 
                         "args_list": [
-                            true
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100022, 
-                        "args_list": [
-                            {
-                                "action_type": "NEW_CAMERA_LINEAR_MOVE_TIME", 
-                                "args_list": [
-                                    {
-                                        "arg_type": 100025, 
-                                        "args_list": [
-                                            1
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100004, 
-                                        "args_list": [
-                                            {
-                                                "arg_type": 100006, 
-                                                "args_list": [
-                                                    2
-                                                ], 
-                                                "sub_type": 1
-                                            }
-                                        ], 
-                                        "sub_type": "UNIT_ENTITY_POINT"
-                                    }, 
-                                    {
-                                        "arg_type": 100000, 
-                                        "args_list": [
-                                            0.06
-                                        ], 
-                                        "sub_type": 1
-                                    }, 
-                                    {
-                                        "arg_type": 100217, 
-                                        "args_list": [
-                                            0
-                                        ], 
-                                        "sub_type": 1
-                                    }
-                                ], 
-                                "bp": false, 
-                                "element_id": 1875570739000081, 
-                                "enable": true
-                            }
+                            2
                         ], 
                         "sub_type": 1
                     }
                 ], 
                 "bp": false, 
-                "element_id": 1875570739000073, 
+                "element_id": 1875570739000261, 
                 "enable": true, 
-                "local_var": {
-                    "__tuple__": true, 
-                    "items": [
-                        {}, 
-                        {}
-                    ]
-                }
+                "op_arg": [
+                    null, 
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false, 
+                    false
+                ]
             }, 
             {
                 "action_type": "CREATE_SCENE_NODE_ON_POINT", 
@@ -2459,14 +2590,14 @@
                             {
                                 "arg_type": 100000, 
                                 "args_list": [
-                                    0.0
+                                    -1000.0
                                 ], 
                                 "sub_type": 1
                             }, 
                             {
                                 "arg_type": 100000, 
                                 "args_list": [
-                                    0.0
+                                    -500.0
                                 ], 
                                 "sub_type": 1
                             }
@@ -2482,7 +2613,7 @@
                     {
                         "arg_type": 100000, 
                         "args_list": [
-                            100.0
+                            10.0
                         ], 
                         "sub_type": 1
                     }
@@ -2491,6 +2622,62 @@
                     false, 
                     true
                 ]
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100214, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "SOUND_ENTITY", 
+                                    "\u4e3b\u754c\u9762BGM"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 2
+                    }, 
+                    {
+                        "arg_type": 100214, 
+                        "args_list": [
+                            {
+                                "arg_type": 100025, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100084, 
+                                "args_list": [
+                                    134253178
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100001, 
+                                "args_list": [
+                                    false
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "op_arg": [
+                            null, 
+                            null
+                        ], 
+                        "op_arg_enable": [
+                            false, 
+                            false
+                        ], 
+                        "sub_type": "PLAY_SOUND_FOR_PLAYER"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1875570739000255, 
+                "enable": true
             }
         ], 
         "call_enabled": true, 
@@ -2507,7 +2694,7 @@
         "group_id": 0, 
         "p_trigger_id": null, 
         "trigger_id": 1875570739, 
-        "trigger_name": "New trigger", 
+        "trigger_name": "game_init", 
         "valid": true
     }
 }
