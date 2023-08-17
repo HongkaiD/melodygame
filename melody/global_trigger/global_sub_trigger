@@ -149,12 +149,12 @@
                 "enable": true
             }, 
             {
-                "action_type": "RUN_LOOP_TIMER_NO_SAVE", 
+                "action_type": "RUN_LOOP_TIMER_BY_FRAME_NO_SAVE", 
                 "args_list": [
                     {
-                        "arg_type": 100000, 
+                        "arg_type": 100002, 
                         "args_list": [
-                            0.03
+                            1
                         ], 
                         "sub_type": 1
                     }, 
@@ -2204,7 +2204,7 @@
                     }
                 ], 
                 "bp": false, 
-                "element_id": 445378562000054, 
+                "element_id": 445378562416664, 
                 "enable": true, 
                 "local_var": {
                     "__tuple__": true, 
@@ -2317,7 +2317,7 @@
                             {
                                 "arg_type": 100000, 
                                 "args_list": [
-                                    400.0
+                                    500.0
                                 ], 
                                 "sub_type": 1
                             }
@@ -2412,7 +2412,7 @@
                                     {
                                         "arg_type": 100000, 
                                         "args_list": [
-                                            0.03
+                                            0.06
                                         ], 
                                         "sub_type": 1
                                     }, 
