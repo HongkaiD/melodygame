@@ -24,314 +24,86 @@
                         0.0, 
                         0.0
                     ], 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            33.333333333333336, 
+                            23.333333333333332, 
+                            33.333333333333336, 
+                            23.333333333333332
+                        ]
+                    }, 
+                    "children": [], 
+                    "color": {
+                        "__tuple__": true, 
+                        "items": [
+                            254, 
+                            254, 
+                            254, 
+                            255
+                        ]
+                    }, 
+                    "event_list": [], 
+                    "image": 134266621, 
+                    "is_scale9_enable": true, 
+                    "name": "image_2", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "d59ce12f-cc67-400b-b471-3302ba712a86"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        56.0, 
+                        0.0, 
+                        0.0, 
+                        896.0
+                    ], 
                     "children": [], 
                     "event_list": [], 
-                    "image": 134229602, 
+                    "image": 134274047, 
                     "name": "image_3", 
                     "open_adapter": true, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            960.0, 
-                            540.0
+                            512.0, 
+                            512.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            26.666666666666668, 
+                            47.40740740740741
                         ]
                     }, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1920.0, 
-                            1080.0
+                            1024.0, 
+                            1024.0
                         ]
                     }, 
                     "type": 4, 
                     "uid": "8d28f4c3-0caf-4507-b056-e5eef5dcd1f4"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        0.0, 
-                        0.0, 
-                        0.0, 
-                        0.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_4", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            540.0
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1920.0, 
-                            1080.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "340d01f9-0878-4e63-ac05-8ce021ecc3e5"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        -300.0001220703125, 
-                        50.0001220703125, 
-                        50.0, 
-                        50.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_5", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            715.0001220703125
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            66.20371500651042
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1820.0, 
-                            1330.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "9a763525-79aa-4a03-b332-5fe27710d091"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        -300.0001220703125, 
-                        100.0001220703125, 
-                        100.0, 
-                        100.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_6", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            740.0001220703125
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            68.51852982132523
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1720.0, 
-                            1280.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "e56dba15-ac29-48c8-be13-c427d442c76c"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        -300.0001220703125, 
-                        150.0001220703125, 
-                        150.0, 
-                        150.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_7", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            765.0001220703125
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            70.83334463614005
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1620.0, 
-                            1230.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "6d7b1088-bc51-49e1-a9bc-30f8e3d4b5f0"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        -300.0001220703125, 
-                        200.0001220703125, 
-                        200.0, 
-                        200.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_10", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            790.0001220703125
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            73.14815945095486
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1520.0, 
-                            1180.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "f3467d44-2cae-4cad-ba37-386bdeb7fdd7"
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        true, 
-                        true, 
-                        true, 
-                        -300.0001220703125, 
-                        250.0001220703125, 
-                        250.0, 
-                        250.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            640.0, 
-                            360.0, 
-                            640.0, 
-                            360.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 903472, 
-                    "name": "image_11", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            815.0001220703125
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            50.0, 
-                            75.46297426576967
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1420.0, 
-                            1130.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "a042fef7-b263-4b22-aac3-96384b571008"
                 }, 
                 {
                     "adapter_option": [
@@ -367,7 +139,7 @@
                     "image": 133849, 
                     "is_scale9_enable": true, 
                     "name": "image_12", 
-                    "opacity": 0.8, 
+                    "opacity": 0.3, 
                     "open_adapter": true, 
                     "pos": {
                         "__tuple__": true, 
@@ -419,9 +191,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    184, 
-                                    184, 
-                                    184, 
+                                    232, 
+                                    232, 
+                                    232, 
                                     255
                                 ]
                             }, 
@@ -467,6 +239,37 @@
                             }, 
                             "type": 3, 
                             "uid": "2767830a-fe7e-45f5-a370-6fd2bff044e0"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134253704, 
+                            "name": "image_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.0, 
+                                    50.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    0.0, 
+                                    50.0
+                                ]
+                            }, 
+                            "rotation": 90.0, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    64.0, 
+                                    64.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "036d70b5-03c9-4ad4-940c-1c9d2fe1d1a1", 
+                            "visible": false
                         }
                     ], 
                     "disabled_picture": 999, 
@@ -490,11 +293,40 @@
                             "type": 2
                         }, 
                         {
-                            "action_list": [], 
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "036d70b5-03c9-4ad4-940c-1c9d2fe1d1a1", 
+                                    "ease_type": 0, 
+                                    "name": "Show_2", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
                             "enabled": true, 
                             "name": "button_1_1", 
                             "sound_id": 112963, 
                             "type": 24
+                        }, 
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "036d70b5-03c9-4ad4-940c-1c9d2fe1d1a1", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_4", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_1_2", 
+                            "sound_id": null, 
+                            "type": 25
                         }
                     ], 
                     "font": {
@@ -516,15 +348,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            966.0, 
-                            338.0
+                            1212.0, 
+                            447.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.31250000000001, 
-                            31.296296296296294
+                            63.12500000000001, 
+                            41.388888888888886
                         ]
                     }, 
                     "press_font_color": {
@@ -611,9 +443,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    184, 
-                                    184, 
-                                    184, 
+                                    232, 
+                                    232, 
+                                    232, 
                                     255
                                 ]
                             }, 
@@ -659,6 +491,37 @@
                             }, 
                             "type": 3, 
                             "uid": "a8248721-ac61-41d1-9420-e746bf5452b9"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134253704, 
+                            "name": "image_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -4.0, 
+                                    50.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -1.875, 
+                                    50.0
+                                ]
+                            }, 
+                            "rotation": 90.0, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    64.0, 
+                                    64.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "ee834ea1-2a15-4392-befe-806a0a434b82", 
+                            "visible": false
                         }
                     ], 
                     "disabled_picture": 999, 
@@ -682,11 +545,40 @@
                             "type": 2
                         }, 
                         {
-                            "action_list": [], 
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "ee834ea1-2a15-4392-befe-806a0a434b82", 
+                                    "ease_type": 0, 
+                                    "name": "Show_3", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
                             "enabled": true, 
                             "name": "button_2_1", 
                             "sound_id": 112963, 
                             "type": 24
+                        }, 
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "ee834ea1-2a15-4392-befe-806a0a434b82", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_5", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_3_2", 
+                            "sound_id": null, 
+                            "type": 25
                         }
                     ], 
                     "font": {
@@ -708,15 +600,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            966.0, 
-                            245.0
+                            1402.0, 
+                            352.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.31250000000001, 
-                            22.685185185185187
+                            73.02083333333333, 
+                            32.592592592592595
                         ]
                     }, 
                     "press_font_color": {
@@ -803,9 +695,9 @@
                             "font_color": {
                                 "__tuple__": true, 
                                 "items": [
-                                    184, 
-                                    184, 
-                                    184, 
+                                    232, 
+                                    232, 
+                                    232, 
                                     255
                                 ]
                             }, 
@@ -851,6 +743,37 @@
                             }, 
                             "type": 3, 
                             "uid": "3f60221c-276e-4d45-bc57-156f3ccbb264"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134253704, 
+                            "name": "image_4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    12.0, 
+                                    50.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    6.25, 
+                                    50.0
+                                ]
+                            }, 
+                            "rotation": 90.0, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    64.0, 
+                                    64.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "ac23bf45-8981-44b4-b166-f2b72085db98", 
+                            "visible": false
                         }
                     ], 
                     "disabled_picture": 999, 
@@ -874,11 +797,40 @@
                             "type": 2
                         }, 
                         {
-                            "action_list": [], 
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "ac23bf45-8981-44b4-b166-f2b72085db98", 
+                                    "ease_type": 0, 
+                                    "name": "Show_4", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
                             "enabled": true, 
                             "name": "button_2_1", 
                             "sound_id": 112963, 
                             "type": 24
+                        }, 
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "ac23bf45-8981-44b4-b166-f2b72085db98", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_6", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "button_2_2", 
+                            "sound_id": null, 
+                            "type": 25
                         }
                     ], 
                     "font": {
@@ -900,15 +852,15 @@
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            966.0, 
-                            150.0
+                            1592.0, 
+                            257.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.31250000000001, 
-                            13.88888888888889
+                            82.91666666666667, 
+                            23.796296296296298
                         ]
                     }, 
                     "press_font_color": {
@@ -964,14 +916,14 @@
                 }, 
                 {
                     "adapter_option": [
+                        true, 
                         false, 
                         false, 
-                        false, 
-                        false, 
-                        17.2271728515625, 
-                        562.7728271484375, 
-                        418.99993896484375, 
-                        421.00006103515625
+                        true, 
+                        200.0, 
+                        605.0, 
+                        845.0, 
+                        20.0
                     ], 
                     "alignment": {
                         "__tuple__": true, 
@@ -992,79 +944,9 @@
                     "font_color": {
                         "__tuple__": true, 
                         "items": [
-                            255, 
-                            92, 
-                            92, 
-                            255
-                        ]
-                    }, 
-                    "label_effect": {
-                        "__tuple__": true, 
-                        "items": [
-                            false, 
-                            false, 
-                            false, 
-                            true
-                        ]
-                    }, 
-                    "name": "label_3", 
-                    "open_adapter": true, 
-                    "over_pattern": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            958.9999389648438, 
-                            812.7728271484375
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            49.947913487752274, 
-                            75.25674325448496
-                        ]
-                    }, 
-                    "shadow": true, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1080.0, 
-                            500.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5e73\u6de1\u7684\u72c2\u60f3", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "aa527eb6-6579-4810-9185-ce6d21b2457a"
-                }, 
-                {
-                    "alignment": {
-                        "__tuple__": true, 
-                        "items": [
-                            2, 
-                            8
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "134268657", 
-                            200
-                        ]
-                    }, 
-                    "font_color": {
-                        "__tuple__": true, 
-                        "items": [
-                            242, 
-                            156, 
-                            80, 
+                            235, 
+                            24, 
+                            126, 
                             255
                         ]
                     }, 
@@ -1078,40 +960,51 @@
                         ]
                     }, 
                     "name": "label_4", 
+                    "open_adapter": true, 
                     "over_pattern": true, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            958.99462890625, 
-                            829.5777587890625
+                            1372.5, 
+                            742.5
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            49.94763692220052, 
-                            76.81275544343171
+                            71.484375, 
+                            68.75
                         ]
                     }, 
                     "shadow": true, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1080.0, 
-                            500.0
+                            1055.0, 
+                            275.0
                         ]
                     }, 
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u5e73\u6de1\u7684\u72c2\u60f3", 
+                            "\u591a\u683c\u72c2\u60f3\u66f2", 
                             false
                         ]
                     }, 
                     "type": 3, 
-                    "uid": "c3a32b6b-5fea-4624-8ab5-dd53906dd59f"
+                    "uid": "691d22ea-b465-4d77-8bdc-a4203fa0e416"
                 }, 
                 {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        false, 
+                        true, 
+                        205.0, 
+                        599.0, 
+                        832.0, 
+                        25.0
+                    ], 
                     "alignment": {
                         "__tuple__": true, 
                         "items": [
@@ -1147,33 +1040,34 @@
                         ]
                     }, 
                     "name": "label_2", 
+                    "open_adapter": true, 
                     "over_pattern": true, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
-                            965.9982299804688, 
-                            823.5777587890625
+                            1363.5, 
+                            737.0
                         ]
                     }, 
                     "pos_percent": {
                         "__tuple__": true, 
                         "items": [
-                            50.31240781148275, 
-                            76.25719988787615
+                            71.015625, 
+                            68.24074074074075
                         ]
                     }, 
                     "shadow": true, 
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1080.0, 
-                            500.0
+                            1063.0, 
+                            276.0
                         ]
                     }, 
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u5e73\u6de1\u7684\u72c2\u60f3", 
+                            "\u591a\u683c\u72c2\u60f3\u66f2", 
                             false
                         ]
                     }, 
@@ -1769,6 +1663,7 @@
                     1080.0
                 ]
             }, 
+            "swallow_touches": true, 
             "type": 7, 
             "uid": "8ad16a36-4905-4c3a-9eeb-375490ae8643", 
             "visible": false
@@ -1941,7 +1836,7 @@
             "uid": "a4f23c6b-cee0-4888-ab23-349fbbfbc4fb"
         }
     ], 
-    "name": "panel_1", 
+    "name": "\u4e3b\u754c\u9762", 
     "opacity": 1.0, 
     "type": 2, 
     "ui_anims": [], 

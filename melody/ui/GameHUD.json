@@ -2,7 +2,16 @@
     "adapt_mode": 2, 
     "children": [
         {
-            "bar_status": true, 
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                true, 
+                20.0, 
+                1028.0, 
+                1788.0, 
+                100.0
+            ], 
             "children": [], 
             "disabled_picture": 133776, 
             "event_list": [
@@ -26,19 +35,20 @@
                 }
             ], 
             "name": "setting_btn", 
-            "normal_picture": 133776, 
+            "normal_picture": 134277534, 
+            "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    39.0, 
-                    1047.0
+                    1804.0, 
+                    1044.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    2.03125, 
-                    96.94444444444444
+                    93.95833333333333, 
+                    96.66666666666667
                 ]
             }, 
             "press_picture": 133774, 
@@ -51,6 +61,13 @@
             }, 
             "suspend_picture": 133775, 
             "swallow_touches": true, 
+            "touch_scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.9, 
+                    0.9
+                ]
+            }, 
             "type": 1, 
             "uid": "4dd8ae57-0c79-4ab4-9d24-04c80b8f39de"
         }, 
@@ -78,7 +95,16 @@
             "visible": false
         }, 
         {
-            "bar_status": true, 
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                true, 
+                20.0, 
+                1028.0, 
+                1838.0, 
+                50.0
+            ], 
             "children": [], 
             "disabled_picture": 903408, 
             "event_list": [
@@ -102,30 +128,38 @@
                 }
             ], 
             "name": "exit_btn", 
-            "normal_picture": 903408, 
+            "normal_picture": 134271166, 
+            "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1861.0, 
-                    1047.0
+                    1854.0, 
+                    1044.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    96.92708333333333, 
-                    96.94444444444444
+                    96.5625, 
+                    96.66666666666667
                 ]
             }, 
             "press_picture": 903406, 
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    36.0, 
-                    36.0
+                    32.0, 
+                    32.0
                 ]
             }, 
             "suspend_picture": 903407, 
+            "touch_scale": {
+                "__tuple__": true, 
+                "items": [
+                    0.9, 
+                    0.9
+                ]
+            }, 
             "type": 1, 
             "uid": "a06c0e95-daa5-4976-9d46-d3e9ebd1db0f"
         }, 
