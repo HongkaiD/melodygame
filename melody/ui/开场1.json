@@ -100,6 +100,66 @@
                     "typewriter_effect": 1, 
                     "typewriter_space": 0.06, 
                     "uid": "b25d756b-a153-42a9-90b0-7bc725307ee5"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        true, 
+                        500.0, 
+                        0.0, 
+                        300.0, 
+                        300.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134268657", 
+                            24
+                        ]
+                    }, 
+                    "name": "label_11", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            40.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            3.7037037037037033
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1320.0, 
+                            80.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u2014\u70b9\u51fb\u7ee7\u7eed\u2014", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "73ada615-ee0d-4567-926b-977aeda3b341"
                 }
             ], 
             "event_list": [
@@ -218,6 +278,66 @@
                     "typewriter_effect": 1, 
                     "typewriter_space": 0.06, 
                     "uid": "d072b0ef-679d-4e28-adfe-c3d26f3030b5"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        true, 
+                        500.0, 
+                        0.0, 
+                        300.0, 
+                        300.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134268657", 
+                            24
+                        ]
+                    }, 
+                    "name": "label_11", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            40.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            3.7037037037037033
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1320.0, 
+                            80.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u2014\u70b9\u51fb\u7ee7\u7eed\u2014", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "f53fa7ad-37e0-48f4-b033-e776860d592e"
                 }
             ], 
             "event_list": [
@@ -336,6 +456,66 @@
                     "typewriter_effect": 1, 
                     "typewriter_space": 0.06, 
                     "uid": "d7f960d8-2e3b-4759-9fb1-d516c1fcc8ac"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        true, 
+                        500.0, 
+                        0.0, 
+                        300.0, 
+                        300.0
+                    ], 
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134268657", 
+                            24
+                        ]
+                    }, 
+                    "name": "label_11", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            40.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            3.7037037037037033
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1320.0, 
+                            80.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u2014\u70b9\u51fb\u7ee7\u7eed\u2014", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "99d8dd74-381a-47a1-a88f-60bb25b604c0"
                 }
             ], 
             "event_list": [

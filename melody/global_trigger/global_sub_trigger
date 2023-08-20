@@ -2527,6 +2527,84 @@
         "trigger_name": "\u5f00\u573a1", 
         "valid": true
     }, 
+    "1335463942": {
+        "action": [
+            {
+                "action_type": "PLAY_SFX_ON_CAMERA", 
+                "args_list": [
+                    {
+                        "arg_type": 100066, 
+                        "args_list": [
+                            103924
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            1.0
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1335463942000008, 
+                "enable": true, 
+                "op_arg": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "op_arg_enable": [
+                    true, 
+                    true, 
+                    false
+                ]
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            57
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1335463942000002, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1335463942, 
+        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+        "valid": true
+    }, 
     "1445650435": {
         "action": [
             {

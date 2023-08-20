@@ -1,20 +1,9 @@
 {
     "1": 1, 
-    "4": 0.5, 
     "5": 1, 
     "6": 0, 
-    "15": 50.0, 
-    "16": 1200.0, 
-    "100": 35.0, 
-    "102": 0, 
-    "103": 35.0, 
-    "104": 500, 
-    "107": 0, 
-    "108": 100, 
-    "1001": 3.0, 
-    "1002": 3.0, 
     "_custom_": true, 
-    "_ref_": 134224315, 
+    "_ref_": 134252387, 
     "affect_techs": {
         "__tuple__": true, 
         "items": []
@@ -24,13 +13,13 @@
     "alarm_range": 8.0, 
     "angle_tolerance": 1, 
     "armor_type": 20000, 
-    "attack_interval": 1.0, 
+    "attack_interval": 1, 
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
     "attack_phy": 100.0, 
     "attack_phy_grow": 2.0, 
-    "attack_range": 10.0, 
+    "attack_range": 10, 
     "attack_range_grow": 0, 
     "attack_speed": 100.0, 
     "attack_speed_grow": 0.0, 
@@ -39,19 +28,22 @@
     "bar_show_scale": true, 
     "bar_slot_size": 6, 
     "base_color_mod": 1, 
-    "base_tint_color": [
-        0, 
-        253, 
-        249, 
-        1.0
-    ], 
+    "base_tint_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
     "billboard_height_offset": 0, 
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1, 
     "billboard_scale_y": 1, 
     "blood_bar": 0, 
     "blood_show_type": 0, 
-    "body_size": 0.7, 
+    "body_size": 1.0, 
     "build_res_cost_list": {
         "__tuple__": true, 
         "items": []
@@ -94,7 +86,7 @@
     "defense_mag_grow": 0.0, 
     "defense_phy": 10.0, 
     "defense_phy_grow": 5.0, 
-    "description": -757566735, 
+    "description": -1061547616, 
     "destroy_after_die": true, 
     "die_anim": "die", 
     "disk_shadow_size": 0, 
@@ -112,12 +104,12 @@
     "extra_dmg_grow": 0.0, 
     "force_show_on_mini_map": false, 
     "fresnel_color": [
-        231, 
-        231, 
-        231, 
+        0, 
+        206, 
+        24, 
         0.5
     ], 
-    "fresnel_emissive_color_strength": 5.0, 
+    "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 1.0, 
     "gainvalue": 0.0, 
     "gainvalue_grow": 0.0, 
@@ -146,7 +138,7 @@
     "intelligence_grow": 1.0, 
     "is_apply_role_color": false, 
     "is_mini_map_show": false, 
-    "is_open_Xray": true, 
+    "is_open_Xray": false, 
     "is_open_disk_shadow": 0, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
@@ -154,14 +146,14 @@
     "is_z_offset": 1, 
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
-    "key": 134224315, 
+    "key": 134252387, 
     "kv": {}, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 
     "mini_map_icon": 100174, 
     "mini_map_icon_scale": 1.0, 
-    "model": 3001, 
+    "model": 206625, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 
@@ -173,10 +165,10 @@
     "mp_max_grow": 50.0, 
     "mp_rec": 10, 
     "mp_rec_grow": 2, 
-    "name": -691664331, 
+    "name": 463253566, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 3.0, 
+    "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -223,21 +215,24 @@
     "show_y3_extra_info": false, 
     "silver coin": 0, 
     "simple_common_atk": {
-        "ability_animations": [
-            "attack1"
-        ], 
+        "ability_animations": {
+            "__tuple__": true, 
+            "items": [
+                "attack1"
+            ]
+        }, 
         "ability_bw_point": 0.5, 
         "ability_cast_point": 0.2, 
-        "attack_interval": 1.0, 
-        "attack_range": 10.0, 
         "attack_trajectory": {
             "effect": 0, 
             "follow_scale": true, 
             "scale": 1.0, 
-            "socket": "origin", 
-            "target_socket": "root"
+            "socket": "origin"
         }, 
-        "cast_effect_list": [], 
+        "cast_effect_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
         "cast_sound": 0, 
         "critical_anim": "attack1", 
         "damage": 100.0, 
@@ -251,7 +246,6 @@
             "socket": "origin"
         }, 
         "hit_sound": 0, 
-        "jump_word": true, 
         "order_play_anim": false, 
         "order_play_reset_time": 0.5, 
         "trajectory_radian": 1.0, 
@@ -273,7 +267,7 @@
         "items": []
     }, 
     "type": 1, 
-    "uid": "134224315", 
+    "uid": "134252387", 
     "use_base_tint_color": false, 
     "use_fresnel": true, 
     "use_simple_mini_map_icon": false, 

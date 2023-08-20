@@ -1,4 +1,10 @@
 {
+    "e_b_u_hover": 3000006, 
+    "e_nb_u_hover": 3000006, 
+    "f_b_u_hover": 3000006, 
+    "f_nb_u_hover": 3000006, 
     "nm_hover": 3000006, 
-    "nm_selected": 3000011
+    "nm_selected": 3000011, 
+    "o_b_u_hover": 3000006, 
+    "o_nb_u_hover": 3000006
 }
