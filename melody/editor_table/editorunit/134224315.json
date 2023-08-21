@@ -146,7 +146,7 @@
     "intelligence_grow": 1.0, 
     "is_apply_role_color": false, 
     "is_mini_map_show": false, 
-    "is_open_Xray": true, 
+    "is_open_Xray": false, 
     "is_open_disk_shadow": 0, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
@@ -176,7 +176,7 @@
     "name": -691664331, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 3.0, 
+    "ori_speed": 2.5, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 

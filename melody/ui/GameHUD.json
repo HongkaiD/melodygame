@@ -5,12 +5,12 @@
             "adapter_option": [
                 true, 
                 false, 
-                false, 
                 true, 
-                20.0, 
-                1028.0, 
-                1788.0, 
-                100.0
+                false, 
+                10.0, 
+                1006.0, 
+                10.0, 
+                1846.0
             ], 
             "children": [], 
             "disabled_picture": 133776, 
@@ -40,23 +40,23 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1804.0, 
-                    1044.0
+                    42.0, 
+                    1038.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    93.95833333333333, 
-                    96.66666666666667
+                    2.1875, 
+                    96.11111111111111
                 ]
             }, 
             "press_picture": 133774, 
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    32.0, 
-                    32.0
+                    64.0, 
+                    64.0
                 ]
             }, 
             "suspend_picture": 133775, 
@@ -98,12 +98,12 @@
             "adapter_option": [
                 true, 
                 false, 
-                false, 
                 true, 
-                20.0, 
-                1028.0, 
-                1838.0, 
-                50.0
+                false, 
+                10.0, 
+                1006.0, 
+                80.0, 
+                1776.0
             ], 
             "children": [], 
             "disabled_picture": 903408, 
@@ -133,23 +133,23 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1854.0, 
-                    1044.0
+                    112.0, 
+                    1038.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    96.5625, 
-                    96.66666666666667
+                    5.833333333333333, 
+                    96.11111111111111
                 ]
             }, 
             "press_picture": 903406, 
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    32.0, 
-                    32.0
+                    64.0, 
+                    64.0
                 ]
             }, 
             "suspend_picture": 903407, 
@@ -177,7 +177,8 @@
             "children": [], 
             "event_list": [], 
             "image": 134266621, 
-            "name": "\u8fc7\u573a", 
+            "name": "\u8fc7\u573a2", 
+            "opacity": 0.0, 
             "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
@@ -194,14 +195,49 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "e465a9ee-208b-4c5f-ae8e-bb1bedaba800"
+            "uid": "a59bd64e-78e4-4002-a0b2-74984b2e03c4", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 134266621, 
+            "name": "\u8fc7\u573a\u6e10\u9690", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "d562c060-390f-459d-8851-8b94812dac09"
         }
     ], 
     "name": "GameHUD", 
     "opacity": 1.0, 
     "type": 2, 
     "ui_anims": [
-        1
+        2, 
+        3
     ], 
     "uid": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
     "visible": true, 
