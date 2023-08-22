@@ -92,7 +92,7 @@
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u8fd9\u662f\u771f\u5b9e\u7684\u4eba\u751f\u5417\n\n\u8fd8\u662f\u4e00\u573a\u865a\u5e7b\u7f62\u4e86\n\n", 
+                            "\u8fd9\u662f\u771f\u5b9e\u7684\u4eba\u751f\u5417\n\n\u8fd8\u662f\u4e00\u573a\u865a\u5e7b\u7f62\u4e86", 
                             false
                         ]
                     }, 
@@ -270,7 +270,7 @@
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u7741\u5f00\u4f60\u7684\u53cc\u773c\n\n\u62ac\u5934\u4ef0\u671b\u661f\u7a7a\n\n", 
+                            "\u7741\u5f00\u4f60\u7684\u53cc\u773c\n\n\u62ac\u5934\u4ef0\u671b\u661f\u7a7a", 
                             false
                         ]
                     }, 
@@ -448,7 +448,7 @@
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u4f46\u98ce\u5439\u5411\u4f55\u65b9\n\n\u90fd\u548c\u6211\u65e0\u5173\u4e86\n\n", 
+                            "\u4f46\u98ce\u5439\u5411\u4f55\u65b9\n\n\u90fd\u548c\u6211\u65e0\u5173\u4e86", 
                             false
                         ]
                     }, 
