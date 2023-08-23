@@ -2,9 +2,17 @@
     "local_variable": {
         "52674570": {
             "variable_dict": {
-                "INTEGER": {}
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "\u5200\u5149": 0
+                }
             }, 
-            "variable_length_dict": {}
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5200\u5149": 0
+            }
         }, 
         "445378562": {
             "variable_dict": {
@@ -45,12 +53,39 @@
         }, 
         "1713352713": {
             "variable_dict": {
+                "ANGLE": {
+                    "direction": 0.0
+                }, 
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0, 
+                    "\u901f\u5ea6": 0.0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "POINT": {
+                    "aimPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
                 "UNIT_ENTITY": {
                     "\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
-                "\u5355\u4f4d": 0
+                "aimPoint": 0, 
+                "direction": 0, 
+                "x": 0, 
+                "y": 0, 
+                "\u5355\u4f4d": 0, 
+                "\u73a9\u5bb6": 0, 
+                "\u901f\u5ea6": 0
             }
         }, 
         "1815023629": {
@@ -71,6 +106,26 @@
             "variable_length_dict": {
                 "\u5355\u4f4d": 0, 
                 "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1878741005": {
+            "variable_dict": {
+                "PROJECTILE_ENTITY": {
+                    "\u5200\u5149": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5200\u5149": 0
+            }
+        }, 
+        "2037657614": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u53ef\u4ee5\u8df3\u8dc3": true
+                }
+            }, 
+            "variable_length_dict": {
+                "\u53ef\u4ee5\u8df3\u8dc3": 0
             }
         }
     }, 

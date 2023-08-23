@@ -1,4 +1,18 @@
 {
+    "1": {
+        "anim_name": "\u97f3\u4e501", 
+        "dt": [], 
+        "event_data": {
+            "30": {
+                "event_id": null, 
+                "frame_id": 30
+            }
+        }, 
+        "f_rt": 30, 
+        "group": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
+        "lp": false, 
+        "max_frame": 5400
+    }, 
     "2": {
         "anim_name": "\u8fc7\u573a\u6e10\u663e", 
         "dt": [

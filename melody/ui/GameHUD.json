@@ -9,8 +9,8 @@
                 false, 
                 10.0, 
                 1006.0, 
-                10.0, 
-                1846.0
+                180.0, 
+                1682.0
             ], 
             "children": [], 
             "disabled_picture": 133776, 
@@ -40,14 +40,14 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    42.0, 
+                    212.0, 
                     1038.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    2.1875, 
+                    11.041666666666666, 
                     96.11111111111111
                 ]
             }, 
@@ -101,9 +101,9 @@
                 true, 
                 false, 
                 10.0, 
-                1006.0, 
-                80.0, 
-                1776.0
+                1003.0, 
+                250.0, 
+                1558.0
             ], 
             "children": [], 
             "disabled_picture": 903408, 
@@ -133,14 +133,14 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    112.0, 
+                    282.0, 
                     1038.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    5.833333333333333, 
+                    14.6875, 
                     96.11111111111111
                 ]
             }, 
@@ -195,8 +195,7 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "a59bd64e-78e4-4002-a0b2-74984b2e03c4", 
-            "visible": false
+            "uid": "a59bd64e-78e4-4002-a0b2-74984b2e03c4"
         }, 
         {
             "adapter_option": [
@@ -230,6 +229,119 @@
             }, 
             "type": 4, 
             "uid": "d562c060-390f-459d-8851-8b94812dac09"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        false, 
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        1767.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134266621, 
+                    "name": "image_7", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            75.0, 
+                            540.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            3.90625, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            150.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "5a07faa9-1087-4e3d-952c-5357418b1e10"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        false, 
+                        true, 
+                        0.0, 
+                        0.0, 
+                        1770.0, 
+                        0.0
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 134266621, 
+                    "name": "image_10", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1845.0, 
+                            540.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            96.09375, 
+                            50.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            150.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "31f2a11a-77e1-480d-9af6-3a3bcf328b95"
+                }
+            ], 
+            "event_list": [], 
+            "name": "\u9ed1\u8fb9", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "0b4790d1-7eb1-4c0e-b87e-64761fa02bb9"
         }
     ], 
     "name": "GameHUD", 
@@ -237,7 +349,8 @@
     "type": 2, 
     "ui_anims": [
         2, 
-        3
+        3, 
+        1
     ], 
     "uid": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
     "visible": true, 
