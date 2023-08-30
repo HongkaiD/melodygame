@@ -14,6 +14,21 @@
                 "\u5200\u5149": 0
             }
         }, 
+        "171487244": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "CD\u7ed3\u675f": true
+                }, 
+                "NEW_TIMER": {}, 
+                "SFX_ENTITY": {
+                    "\u70df\u96fe": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CD\u7ed3\u675f": 0, 
+                "\u70df\u96fe": 0
+            }
+        }, 
         "445378562": {
             "variable_dict": {
                 "ANGLE": {
@@ -90,9 +105,19 @@
         }, 
         "1815023629": {
             "variable_dict": {
-                "INTEGER": {}
+                "BOOLEAN": {
+                    "CD\u7ed3\u675f": true
+                }, 
+                "INTEGER": {}, 
+                "NEW_TIMER": {}, 
+                "SFX_ENTITY": {
+                    "\u70df\u96fe": 0
+                }
             }, 
-            "variable_length_dict": {}
+            "variable_length_dict": {
+                "CD\u7ed3\u675f": 0, 
+                "\u70df\u96fe": 0
+            }
         }, 
         "1875570739": {
             "variable_dict": {
@@ -117,23 +142,14 @@
             "variable_length_dict": {
                 "\u5200\u5149": 0
             }
-        }, 
-        "2037657614": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "\u53ef\u4ee5\u8df3\u8dc3": true
-                }
-            }, 
-            "variable_length_dict": {
-                "\u53ef\u4ee5\u8df3\u8dc3": 0
-            }
         }
     }, 
     "variable_comments": {}, 
     "variable_dict": {
         "BOOLEAN": {
             "wasd\u79fb\u52a8": true, 
-            "\u5f00\u573a\u5bf9\u767d\u7ed3\u675f": false
+            "\u5f00\u573a\u5bf9\u767d\u7ed3\u675f": false, 
+            "\u79fb\u52a8CD\u7ed3\u675f": true
         }, 
         "INTEGER": {
             "\u79fb\u52a8\u70b9": 0
@@ -221,6 +237,13 @@
                 "\u79fb\u52a8\u8def\u5f84", 
                 "\u79fb\u52a8\u8def\u5f84"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u79fb\u52a8CD\u7ed3\u675f", 
+                "\u79fb\u52a8CD\u7ed3\u675f"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -231,6 +254,7 @@
         "\u4e3b\u89d2": 0, 
         "\u4e3b\u89d2\u5149\u73af": 0, 
         "\u5f00\u573a\u5bf9\u767d\u7ed3\u675f": 0, 
+        "\u79fb\u52a8CD\u7ed3\u675f": 0, 
         "\u79fb\u52a8\u70b9": 0, 
         "\u79fb\u52a8\u8def\u5f84": 0
     }

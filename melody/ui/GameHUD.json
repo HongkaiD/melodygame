@@ -342,6 +342,69 @@
             }, 
             "type": 7, 
             "uid": "0b4790d1-7eb1-4c0e-b87e-64761fa02bb9"
+        }, 
+        {
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "bold": true, 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134268657", 
+                    24
+                ]
+            }, 
+            "label_effect": {
+                "__tuple__": true, 
+                "items": [
+                    true, 
+                    false, 
+                    false, 
+                    false
+                ]
+            }, 
+            "name": "\u5bf9\u767d", 
+            "over_pattern": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    956.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    88.51851851851852
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    600.0, 
+                    100.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u770b\u6765\u4f60\u8fd8\u6ca1\u6709\u51c6\u5907\u597d\uff0c\u4e0d\u8fc7\u4f60\u5df2\u7ecf\u5f88\u68d2\u4e86", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "typewriter_effect": 1, 
+            "typewriter_space": 0.06, 
+            "uid": "b9dacbd5-d26c-47d4-8b2c-0f5776ae8696", 
+            "visible": false
         }
     ], 
     "name": "GameHUD", 

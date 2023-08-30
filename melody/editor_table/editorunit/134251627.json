@@ -1,8 +1,12 @@
 {
     "1": 1, 
+    "4": 2.5, 
     "5": 1, 
     "6": 0, 
     "10": 6, 
+    "100": 25.0, 
+    "102": 0, 
+    "104": 500, 
     "JHhsz75LEe2MVjDQQuUV9i": 0, 
     "JHhsz75LEe2MVjDQQuUV9i_grow": 0, 
     "affect_techs": {
