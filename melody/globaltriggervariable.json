@@ -66,6 +66,16 @@
                 "\u901f\u5ea6": 0
             }
         }, 
+        "813559822": {
+            "variable_dict": {
+                "FLOAT": {
+                    "bpm": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "bpm": 0
+            }
+        }, 
         "1713352713": {
             "variable_dict": {
                 "ANGLE": {
@@ -135,11 +145,15 @@
         }, 
         "1878741005": {
             "variable_dict": {
+                "FLOAT": {
+                    "bpm": 0.0
+                }, 
                 "PROJECTILE_ENTITY": {
                     "\u5200\u5149": 0
                 }
             }, 
             "variable_length_dict": {
+                "bpm": 0, 
                 "\u5200\u5149": 0
             }
         }
@@ -150,6 +164,9 @@
             "wasd\u79fb\u52a8": true, 
             "\u5f00\u573a\u5bf9\u767d\u7ed3\u675f": false, 
             "\u79fb\u52a8CD\u7ed3\u675f": true
+        }, 
+        "FLOAT": {
+            "\u4f24\u5bb3": 0.0
         }, 
         "INTEGER": {
             "\u79fb\u52a8\u70b9": 0
@@ -166,7 +183,9 @@
         }, 
         "SOUND_ENTITY": {
             "level1bgm": 0, 
-            "\u4e3b\u754c\u9762BGM": 0
+            "\u4e3b\u754c\u9762BGM": 0, 
+            "\u7b2c\u4e8c\u5173\u6b4c\u66f2": 0, 
+            "\u7ec3\u4e60\u6b4c\u66f2": 0
         }, 
         "TABLE": {}, 
         "UNIT_ENTITY": {
@@ -244,6 +263,27 @@
                 "\u79fb\u52a8CD\u7ed3\u675f", 
                 "\u79fb\u52a8CD\u7ed3\u675f"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7ec3\u4e60\u6b4c\u66f2", 
+                "\u7ec3\u4e60\u6b4c\u66f2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4f24\u5bb3", 
+                "\u4f24\u5bb3"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7b2c\u4e8c\u5173\u6b4c\u66f2", 
+                "\u7b2c\u4e8c\u5173\u6b4c\u66f2"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -253,9 +293,12 @@
         "\u4e3b\u754c\u9762BGM": 0, 
         "\u4e3b\u89d2": 0, 
         "\u4e3b\u89d2\u5149\u73af": 0, 
+        "\u4f24\u5bb3": 0, 
         "\u5f00\u573a\u5bf9\u767d\u7ed3\u675f": 0, 
         "\u79fb\u52a8CD\u7ed3\u675f": 0, 
         "\u79fb\u52a8\u70b9": 0, 
-        "\u79fb\u52a8\u8def\u5f84": 0
+        "\u79fb\u52a8\u8def\u5f84": 0, 
+        "\u7b2c\u4e8c\u5173\u6b4c\u66f2": 0, 
+        "\u7ec3\u4e60\u6b4c\u66f2": 0
     }
 }

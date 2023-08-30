@@ -2,30 +2,37 @@
     "adapt_mode": 2, 
     "children": [
         {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
             "children": [], 
             "event_list": [], 
-            "image": 106331, 
+            "image": 134266621, 
             "name": "image_9", 
+            "open_adapter": true, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    600.0
+                    540.0
                 ]
             }, 
-            "pos_percent": {
+            "size": {
                 "__tuple__": true, 
                 "items": [
-                    50.0, 
-                    55.55555555555556
+                    1920.0, 
+                    1080.0
                 ]
             }, 
-            "size": [
-                695.0625, 
-                418.5
-            ], 
             "type": 4, 
-            "uid": "e35b1ffe-3472-443b-801a-96244184e296"
+            "uid": "84f1aa9a-e57d-43cb-8e57-319f810bab54"
         }, 
         {
             "children": [], 
@@ -38,8 +45,15 @@
                     "type": 11
                 }
             ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134268657", 
+                    24
+                ]
+            }, 
             "name": "button_8", 
-            "normal_picture": 100372, 
+            "normal_picture": 134272951, 
             "normal_text": {
                 "__tuple__": true, 
                 "items": [
@@ -50,15 +64,15 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    963.0, 
-                    398.0
+                    960.0, 
+                    282.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    50.15625, 
-                    36.851851851851855
+                    50.0, 
+                    26.111111111111114
                 ]
             }, 
             "size": [
@@ -67,6 +81,59 @@
             ], 
             "type": 1, 
             "uid": "6ed4113f-80d5-49b4-9d95-28c66862295e"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134268657", 
+                    150
+                ]
+            }, 
+            "name": "label_13", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u672a\u5b8c\u5f85\u7eed\u3002\u3002", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "5ba2f2e7-511f-4181-8d39-e4f438c2da09"
         }
     ], 
     "name": "loss", 

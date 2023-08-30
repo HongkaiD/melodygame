@@ -314,5 +314,23 @@
         "group": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
         "lp": false, 
         "max_frame": 100
+    }, 
+    "4": {
+        "anim_name": "level1", 
+        "dt": [], 
+        "event_data": {
+            "190": {
+                "event_id": 1219471011, 
+                "frame_id": 190
+            }, 
+            "1305": {
+                "event_id": 1730953619, 
+                "frame_id": 1305
+            }
+        }, 
+        "f_rt": 30, 
+        "group": "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
+        "lp": false, 
+        "max_frame": 2190
     }
 }
